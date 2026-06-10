@@ -1,4 +1,4 @@
-# 
+# 开源 AI leaf disease detection system 预设。集成 数据增强 和 情感分析，性能最大化。
 
 
 
